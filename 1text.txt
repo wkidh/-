@@ -2,3 +2,4 @@ git
 git add
 gid commit
 git git
+git status
